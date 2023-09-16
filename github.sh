@@ -2,9 +2,9 @@
 
 #Altere as variáveis abaixo de acordo com a sua necessidade
 #na variável repositório, prefira a url do repositório baseada em https para nao termos que configurar SSH
-export name='AnaCarolina2003'
-export email="ana.angotti@etec.sp.gov.br"
-export repositorio="https://github.com/AnaCarolina2003/pam1";
+export name='luis-antoniosi'
+export email="luis.antoniosi@etec.sp.gov.br"
+export repositorio="https://github.com/luis-antoniosi/pam1";
 
 #Daqui pra baixo mexa somente se for realmente necessário ou se souber o que está fazendo :P
 git Rm -f
