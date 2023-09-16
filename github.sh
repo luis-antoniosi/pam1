@@ -7,7 +7,7 @@ export email="luis.antoniosi@etec.sp.gov.br"
 export repositorio="https://github.com/luis-antoniosi/pam1";
 
 #Daqui pra baixo mexa somente se for realmente necessário ou se souber o que está fazendo :P
-git Rm -f
+# rm -Rf .git
 
 export branch_name="aula-$(date -I)"
 
