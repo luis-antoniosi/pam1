@@ -30,14 +30,14 @@ class _HomePageState extends State<HomePage> {
                   AnimatedOpacity(
                     opacity: _visible ? 1.0 : 0.0,
                     duration: const Duration(milliseconds: 500),
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                      children: [
-                        iconCreator(),
-                        iconCreator(),
-                      ],
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                        children: [
+                          iconCreator(),
+                          iconCreator(),
+                        ],
+                      ),
                     ),
-                  ),
                   ShakeWidget(
                     enableWebMouseHover: false,
                     shakeConstant: ShakeChunkConstant(),
